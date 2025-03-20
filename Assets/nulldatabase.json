@@ -1,0 +1,17 @@
+{
+  "options" : {
+    "isOnline" : true,
+    "maxScoreCount" : 10
+  },
+  "points" : {
+    "d" : [
+      {"uid": "null", "sid": "null", "username": "null",			"score": "0"}
+    ],
+    "w" : [
+      {"uid": "null", "sid": "null", "username": "null",			"score": "0"}
+    ],
+    "m" : [
+      {"uid": "null", "sid": "null", "username": "null",			"score": "0"}
+    ]
+  }
+}

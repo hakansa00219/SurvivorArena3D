@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81071383314",
+    "firebase_url": "https://iogames-fe98c.firebaseio.com",
+    "project_id": "iogames-fe98c",
+    "storage_bucket": "iogames-fe98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81071383314:android:1825f8ba76e0361a38c9cb",
+        "android_client_info": {
+          "package_name": "com.IOGamesWorld.BallGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81071383314-tp78857uihcbpsgkekhmehbnek88un9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_UeUmFC_h0LioJrASwGXmZQa61XRyio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81071383314-tp78857uihcbpsgkekhmehbnek88un9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
