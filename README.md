@@ -1,6 +1,10 @@
 # Survivor Arena 3D - 2020
 ![SurvivorArena3D](https://github.com/user-attachments/assets/c884eb3b-97bf-4253-a18b-23b2a65e92e5)
 
+Removed from Google Play last year. Apkpure link still exists.
+
+https://apkpure.com/survivor-arena-3d/com.IOGamesWorld.BallGame
+
 Android 3D survivor/arena game with ball characters.
 
 Some folders/files ignored to make the project smaller.
