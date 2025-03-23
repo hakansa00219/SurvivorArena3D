@@ -72,3 +72,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/Firebase
+Assets/google-services.json
+/Assets/GoogleMobileAds
+/Assets/Plugins
+/Assets/Scripts/Ad_Internet
+/Assets/Scripts/Firebase
+Assets/TODO.cs
+/Assets/wire_fence
+Assets/Chewy-Regular SDF.asset.meta
+Assets/Chewy-Regular SDF.asset
+/Assets/StreamingAssets
